@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Vlad, I’m @jewelryxvx
+- 👋 Hi, my name is Vlad, my nickname @jewelryxvx
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me mister.vladekon@gmail.com
